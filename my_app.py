@@ -51,7 +51,7 @@ else:
     ax.set_xlabel('X axis')
     ax.set_ylabel('Y axis')
     ax.set_zlabel('Z axis')
-    ax.set_title('3D Plot of Sinusoidal Function')
+    ax.set_title('3D Plot of Function')
 
     # Show plot
     plt.show()
